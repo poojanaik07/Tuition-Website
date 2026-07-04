@@ -1,0 +1,6 @@
+{
+  "name": "Bright Future Tuition Classes",
+  "description": "A modern, professional website for Bright Future Tuition Classes providing quality education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
